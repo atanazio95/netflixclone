@@ -45,9 +45,6 @@ extension HomeViewController: UITableViewDelegate, UITableViewDataSource {
         return 20
     }
     
-    
-    
-    
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return 1
     }
